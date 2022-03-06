@@ -17,8 +17,8 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-ff69b4)
 
 ### Additional
-![Github](https://img.shields.io/badge/-Github-fff?&logo=Github)
-![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+![Github](https://img.shields.io/badge/-Github-fff69b4&logo=Github)
+![Git](https://img.shields.io/badge/-Git-fff69b4&logo=Git)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariia-vasylchenko-4133a920a">
