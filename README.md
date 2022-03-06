@@ -5,7 +5,7 @@
 [![C#](https://img.shields.io/badge/-C%23-ff69b4)](https://github.com/choicl?tab=repositories&q=&type=&language=c%23&sort=)
 
 ### .NET Technology Stack
-![Web API](https://img.shields.io/badge/%20-Web%20API-success)
+![Web API](https://img.shields.io/badge/%20-Web%20API-ff69b4)
 ![MVC](https://img.shields.io/badge/%20-MVC-success)
 ![Nunit](https://img.shields.io/badge/%20-NUnit-success)
 ![XUnit](https://img.shields.io/badge/-XUnit-success)
