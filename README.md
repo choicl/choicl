@@ -15,6 +15,10 @@
 ![LINQ](https://img.shields.io/badge/-LINQ-ff69b4)
 ![REST](https://img.shields.io/badge/-REST-ff69b4)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-ff69b4)
+![Docker](https://img.shields.io/badge/-Docker-ff69b4)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-ff69b4)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff69b4)
+![Grpc](https://img.shields.io/badge/-Grpc-ff69b4)
 
 ### Additional
 ![Github](https://img.shields.io/badge/-Github-fff?&logo=Github)
