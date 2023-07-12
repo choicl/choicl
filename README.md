@@ -21,11 +21,11 @@
 ![Grpc](https://img.shields.io/badge/-Grpc-ff69b4)
 
 ### Additional
-![Github](https://img.shields.io/badge/-Github-fff?&logo=Github)
-![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-ff69b4)
 ![React.js](https://img.shields.io/badge/-React.js-ff69b4)
+![Github](https://img.shields.io/badge/-Github-fff?&logo=Github)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariia-vasylchenko-4133a920a">
