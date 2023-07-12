@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### Languages
+### My main language
 
 [![C#](https://img.shields.io/badge/-C%23-ff69b4)](https://github.com/choicl?tab=repositories&q=&type=&language=c%23&sort=)
 
